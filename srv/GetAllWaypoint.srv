@@ -1,0 +1,4 @@
+---
+bool success
+string message
+navigation_yeon/AllWaypoint[] all_waypoints
